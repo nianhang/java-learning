@@ -33,6 +33,6 @@ public class Agent {
     public void business(){
         System.out.println(star.getName() + "和" + company.getName() + "洽谈");
     }
-
+    
 
 }
